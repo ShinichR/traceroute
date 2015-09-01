@@ -1,7 +1,7 @@
 ## trceroute in Go
 
-'''sh
+```sh
 go build cmd/gotraceroute
 sudo ./gotraceroute example.com
-'''
+```
 
